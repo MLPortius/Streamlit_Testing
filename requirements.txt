@@ -1,0 +1,4 @@
+spyder==5.1.5
+streamlit
+yfinance
+sklearn
